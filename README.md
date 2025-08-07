@@ -84,4 +84,4 @@ Zomato Dashboard Preview
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/zomato-analytics-dashboard.git
+   git clone https://github.com/mustaqahmd/zomato-analytics-dashboard.git
